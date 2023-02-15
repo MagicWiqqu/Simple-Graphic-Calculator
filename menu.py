@@ -5,7 +5,7 @@ import text as tx
 
 tx.witaj()
 
-while 2137:  #Główny program
+while 2137:  #Główny program <menu>
     print("Wpisany wielomian: ", var.wielomian)
     print("Zakres: [",var.początek,"; ", var.koniec,"]")
     action = int(input("""
